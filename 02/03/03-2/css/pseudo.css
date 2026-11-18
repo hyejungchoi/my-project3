@@ -4,3 +4,6 @@ h1{
 h1:hover{
     border: 3px solid palegoldenrod
 }
+ul li:nth-of-type(2n){
+    border: 5px solid brown
+}
