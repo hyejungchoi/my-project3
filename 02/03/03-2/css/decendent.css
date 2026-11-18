@@ -1,3 +1,6 @@
 p strong {
     border: 1px solid #13bb4b
 }
+strong {
+    border: 15px solid red
+}
