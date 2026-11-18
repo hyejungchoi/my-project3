@@ -4,3 +4,9 @@ p.text1{
 .text2{
     border:3px solid salmon
 }
+p.text1:hover{
+    border:3px solid blue
+}
+.text2:hover{
+    border:3px solid red
+}
